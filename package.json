@@ -68,6 +68,6 @@
     "jest": "25.1.0",
     "jest-image-snapshot": "2.12.0",
     "release-it": "10.4.5",
-    "walk-sync": "2.0.2"
+    "walk-sync": "2.2.0"
   }
 }
